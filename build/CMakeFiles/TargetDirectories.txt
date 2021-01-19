@@ -1,0 +1,3 @@
+/home/qindao/Desktop/prime/build/CMakeFiles/rebuild_cache.dir
+/home/qindao/Desktop/prime/build/CMakeFiles/edit_cache.dir
+/home/qindao/Desktop/prime/build/CMakeFiles/main.dir

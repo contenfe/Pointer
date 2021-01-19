@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/qindao/Desktop/prime/build",
+  "command": "/bin/clang++-3.8     -Wall -g   -o CMakeFiles/main.dir/src/day_01.cpp.o -c /home/qindao/Desktop/prime/src/day_01.cpp",
+  "file": "/home/qindao/Desktop/prime/src/day_01.cpp"
+}
+]
